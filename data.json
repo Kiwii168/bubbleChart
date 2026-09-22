@@ -1,0 +1,258 @@
+[
+    {
+        "Pais": "México",
+        "Año": 2000,
+        "PIB": 9000,
+        "Vida": 73,
+        "Poblacion": 100,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Uruguay",
+        "Año": 2000,
+        "PIB": 4000,
+        "Vida": 75,
+        "Poblacion": 3.3,
+        "Continente": "América"
+    },
+    {
+        "Pais": "España",
+        "Año": 2000,
+        "PIB": 5000,
+        "Vida": 79,
+        "Poblacion": 40,
+        "Continente": "Europa"
+    },
+    {
+        "Pais": "Estados Unidos",
+        "Año": 2000,
+        "PIB": 36000,
+        "Vida": 77,
+        "Poblacion": 281,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Cuba",
+        "Año": 2000,
+        "PIB": 3500,
+        "Vida": 76,
+        "Poblacion": 11,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Perú",
+        "Año": 2000,
+        "PIB": 3000,
+        "Vida": 70,
+        "Poblacion": 26,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Brasil",
+        "Año": 2000,
+        "PIB": 4500,
+        "Vida": 70,
+        "Poblacion": 175,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Rusia",
+        "Año": 2000,
+        "PIB": 6000,
+        "Vida": 65,
+        "Poblacion": 146,
+        "Continente": "Europa"
+    },
+    {
+        "Pais": "México",
+        "Año": 2010,
+        "PIB": 10500,
+        "Vida": 75,
+        "Poblacion": 114,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Uruguay",
+        "Año": 2010,
+        "PIB": 9000,
+        "Vida": 77,
+        "Poblacion": 3.5,
+        "Continente": "América"
+    },
+    {
+        "Pais": "España",
+        "Año": 2010,
+        "PIB": 31000,
+        "Vida": 82,
+        "Poblacion": 46,
+        "Continente": "Europa"
+    },
+    {
+        "Pais": "Estados Unidos",
+        "Año": 2010,
+        "PIB": 48500,
+        "Vida": 79,
+        "Poblacion": 309,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Cuba",
+        "Año": 2010,
+        "PIB": 6500,
+        "Vida": 78,
+        "Poblacion": 11.2,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Perú",
+        "Año": 2010,
+        "PIB": 5200,
+        "Vida": 74,
+        "Poblacion": 29,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Brasil",
+        "Año": 2010,
+        "PIB": 11200,
+        "Vida": 73,
+        "Poblacion": 196,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Rusia",
+        "Año": 2010,
+        "PIB": 15500,
+        "Vida": 69,
+        "Poblacion": 143,
+        "Continente": "Europa"
+    },
+    {
+        "Pais": "México",
+        "Año": 2020,
+        "PIB": 10000,
+        "Vida": 75,
+        "Poblacion": 128,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Uruguay",
+        "Año": 2020,
+        "PIB": 16000,
+        "Vida": 78,
+        "Poblacion": 3.5,
+        "Continente": "América"
+    },
+    {
+        "Pais": "España",
+        "Año": 2020,
+        "PIB": 27000,
+        "Vida": 82,
+        "Poblacion": 47,
+        "Continente": "Europa"
+    },
+    {
+        "Pais": "Estados Unidos",
+        "Año": 2020,
+        "PIB": 63500,
+        "Vida": 78,
+        "Poblacion": 331,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Cuba",
+        "Año": 2020,
+        "PIB": 9000,
+        "Vida": 79,
+        "Poblacion": 11.3,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Perú",
+        "Año": 2020,
+        "PIB": 6500,
+        "Vida": 77,
+        "Poblacion": 33,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Brasil",
+        "Año": 2020,
+        "PIB": 14500,
+        "Vida": 76,
+        "Poblacion": 213,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Rusia",
+        "Año": 2020,
+        "PIB": 11500,
+        "Vida": 71,
+        "Poblacion": 144,
+        "Continente": "Europa"
+    },
+    {
+        "Pais": "México",
+        "Año": 2030,
+        "PIB": 15000,
+        "Vida": 78,
+        "Poblacion": 140,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Uruguay",
+        "Año": 2030,
+        "PIB": 22000,
+        "Vida": 81,
+        "Poblacion": 3.7,
+        "Continente": "América"
+    },
+    {
+        "Pais": "España",
+        "Año": 2030,
+        "PIB": 36000,
+        "Vida": 85,
+        "Poblacion": 48,
+        "Continente": "Europa"
+    },
+    {
+        "Pais": "Estados Unidos",
+        "Año": 2030,
+        "PIB": 80000,
+        "Vida": 81,
+        "Poblacion": 350,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Cuba",
+        "Año": 2030,
+        "PIB": 13000,
+        "Vida": 82,
+        "Poblacion": 10.8,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Perú",
+        "Año": 2030,
+        "PIB": 12000,
+        "Vida": 79,
+        "Poblacion": 37,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Brasil",
+        "Año": 2030,
+        "PIB": 20000,
+        "Vida": 79,
+        "Poblacion": 225,
+        "Continente": "América"
+    },
+    {
+        "Pais": "Rusia",
+        "Año": 2030,
+        "PIB": 18000,
+        "Vida": 74,
+        "Poblacion": 142,
+        "Continente": "Europa"
+    }
+]
