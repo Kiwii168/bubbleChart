@@ -1,3 +1,39 @@
+// ================================
+// CARGA DINÁMICA DE VISTA
+// ================================
+
+const params = new URLSearchParams(
+    window.location.search
+);
+
+const id = params.get("id") || 1;
+
+
+const DATA_FILE =
+    id == 1
+    ?
+    "data.json"
+    :
+    "data"+id+".json";
+
+
+const CONFIG_FILE =
+    id == 1
+    ?
+    "config.json"
+    :
+    "config"+id+".json";
+
+
+
+console.log("Cargando:", DATA_FILE, CONFIG_FILE);
+
+
+
+// ================================
+// VARIABLES
+// ================================
+
 let data=[];
 let config={};
 
