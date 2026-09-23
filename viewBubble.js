@@ -1,6 +1,3 @@
-// ================================
-// CARGA DINÁMICA DE VISTA
-// ================================
 
 const params = new URLSearchParams(
     window.location.search
